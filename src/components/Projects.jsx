@@ -14,7 +14,7 @@ const Projects = (props) => {
         <img
           src={props.image}
           alt={props.title}
-          className="h-64 w-full object-fit "
+          className="h-64 w-full object-cover"
         />
       </div>
       <div className="flex flex-col gap-4 p-6">

@@ -12,7 +12,7 @@ function Hero() {
         <p className="mb-5 text-xs font-mono font-bold uppercase tracking-[0.28em] text-[#fca311] dark:text-[#6049ea] ">
           Hello, I&apos;m Habeeb
         </p>
-        <h1 className="max-w-xl text-5xl sm:text-4xl lg:text-6xl font-medium tracking-[-0.04em] text-[#14213d] dark:text-white">
+        <h1 className="max-w-xl text-5xl sm :text-4xl lg:text-6xl font-medium tracking-[-0.04em] text-[#14213d] dark:text-white">
           I build fast, accessible interfaces with React
         </h1>
         <p className="mt-7 max-w-lg text-base leading-7 text-[#536174] dark:text-white sm:text-lg">

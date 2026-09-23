@@ -57,7 +57,7 @@ const Navbar = () => {
   }, []);
   return (
     <>
-      <nav className="navbar sticky z-1 border-b border-gray-400 dark:border-gray-700 bg-white/70 dark:bg-black/70 backdrop-blur-md relative top-0 w-full flex items-center justify-between p-4 md:p-3 text-[#14213d] dark:text-white">
+      <nav className="navbar sticky z-10 border-b border-gray-400 dark:border-gray-700 bg-white/70 dark:bg-black/70 backdrop-blur-md relative top-0 w-full flex items-center justify-between p-4 md:p-3 text-[#14213d] dark:text-white">
         <div className="tracking-tight">
           <a
             href="#home"

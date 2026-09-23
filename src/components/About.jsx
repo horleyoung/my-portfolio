@@ -39,7 +39,7 @@ const About = () => {
         {/* Right column */}
         <div className="w-full md:w-1/2 flex flex-col gap-5">
           <h3 className="text-xl font-semibold text-[#fca311] dark:text-[#6049ea] font-mono text-xl ">About Me</h3>
-          <h2 className="text-4xl font-bold text-[#14213d] dark:text-white">
+          <h2 className="text-3xl md:text-4xl font-bold text-[#14213d] dark:text-white">
             I'm Habeeb — a frontend developer focused on clean, functional
             interfaces.
           </h2>
