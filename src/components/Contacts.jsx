@@ -36,7 +36,7 @@ const Contact = () => {
           href="https://github.com/horleyoung"
           target="_blank"
           rel="noopener noreferrer"
-          className="flex items-center gap-2 border border-[#14213d] px-5 py-3 rounded-lg  rounded-lg transition-all duration-300 hover:scale-105 hover:border-[#fca311] dark:hover:border-[#6049ea] hover:shadow-[0_0_0_1px_#fca311] dark:hover:shadow-[0_0_0_1px_#6049ea] "
+          className="flex items-center justify-center md:justify-start w-full md:w-fit gap-2 border border-[#14213d] px-5 py-3  rounded-lg  rounded-lg transition-all duration-300 hover:scale-105 hover:border-[#fca311] dark:hover:border-[#6049ea] hover:shadow-[0_0_0_1px_#fca311] dark:hover:shadow-[0_0_0_1px_#6049ea] "
         >
           <FaGithub size={18} />
           GitHub
@@ -47,7 +47,7 @@ const Contact = () => {
           href="https://linkedin.com/in/adepoju-habeeb-979550359"
           target="_blank"
           rel="noopener noreferrer"
-          className="flex items-center gap-2 border border-[#14213d] px-5 py-3 rounded-lg  rounded-lg transition-all duration-300 hover:scale-105 hover:border-[#fca311] dark:hover:border-[#6049ea] hover:shadow-[0_0_0_1px_#fca311] dark:hover:shadow-[0_0_0_1px_#6049ea] "
+          className="flex items-center items-center justify-center md:justify-start w-full md:w-fit gap-2 border border-[#14213d] px-4 py-3 rounded-lg  rounded-lg transition-all duration-300 hover:scale-105 hover:border-[#fca311] dark:hover:border-[#6049ea] hover:shadow-[0_0_0_1px_#fca311] dark:hover:shadow-[0_0_0_1px_#6049ea] "
         >
           <FaLinkedin size={18} />
           LinkedIn
